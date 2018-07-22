@@ -1,8 +1,15 @@
 {
-    "config": {
-        "vendor-dir": "vendor"
+    "name": "codeneric/hacklib",
+    "type": "compiler",
+    "require": {
     },
-    "repositories": [],
-    "require": {},
-    "require-dev": {}
+    "require-dev": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Golovin",
+            "email": "denis@codeneric.com"
+        }
+    ]
 }
